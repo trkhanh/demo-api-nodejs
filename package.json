@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-express",
+  "description": "Hello World test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^3.21.2"
+  }
+}
